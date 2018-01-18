@@ -1,5 +1,5 @@
-# PD443Xclock
-PD443Xclock
+# PD443Xclock Not Tested
+PD443Xclock Not tested
 component 
 1.PD443x or PD243X or PD353X          1 piece
 2.all arduino with Atmega328(p)       1 piece
