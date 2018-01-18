@@ -10,10 +10,10 @@ connection between arduino 74HC595 and PDXXXX(from 1st)
 :https://github.com/TiNredmc/PD443X_Lib/blob/master/Connection.txt
 connection 
 arduino      to DS3231 module
-A4 or SDA       SDA pin   
-A5 or SCl       SCL pin
-Vcc             Vcc
-GND             GND
+A4 or SDA    to SDA pin   
+A5 or SCl    to SCL pin
+Vcc          to Vcc
+GND          to GND
 
 
 Credits Library 
