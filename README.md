@@ -14,3 +14,9 @@ A4 or SDA       SDA pin
 A5 or SCl       SCL pin
 Vcc             Vcc
 GND             GND
+
+
+Credits Library 
+RTClib:https://github.com/adafruit/RTClib
+My Library
+PD443X:https://github.com/TiNredmc/PD443X_Lib
